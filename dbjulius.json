@@ -1,0 +1,24 @@
+[
+    {
+        "id": "languageinput",
+        "group": "innodata",
+        "name": "Language Input",
+        "url": ""https://cdn.totaljs.com/flowstream/webcomponents/trigger.html"",
+        "author": "julius",
+        "icon": "ti ti-bullhorn",
+        "color": "",
+        "version": "3",
+        "readme": "This is a  language input  component."
+    },
+    {
+        "id": "translationapi",
+        "group": "innodata",
+        "name": "Translation API",
+        "url": "https://cdn.totaljs.com/flowstream/webcomponents/request.html",
+        "author": "julius",
+        "icon": "ti ti-cloud-download",
+        "color": "",
+        "version": "3",
+        "readme": "This is a translation api component."
+    }
+]
